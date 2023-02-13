@@ -3,8 +3,9 @@ the script development has discontinued !
 
 you can find a lot more optimized functions in our new free script 'ull-notify' 
 
-which will be available at: [Tebex](https://unluckylust.tebex.io)
-Read [CFX post](https://forum.cfx.re/t/ultimate-notification-script-standalone-qbcore/5022953)
+Which will be available at: [Tebex](https://unluckylust.tebex.io)
+
+Read ull-notify [CFX post](https://forum.cfx.re/t/ultimate-notification-script-standalone-qbcore/5022953)
 
 ## FiveM Announcer by UnLuckyLust#9534
 Announcer for FiveM servers, 
