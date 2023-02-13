@@ -3,7 +3,7 @@ the script development has discontinued !
 
 you can find a lot more optimized functions in our new free script 'ull-notify' 
 
-Which will be available at: [Tebex](https://unluckylust.tebex.io)
+Which will be available at [Tebex](https://unluckylust.tebex.io)
 
 Read Notify [CFX post](https://forum.cfx.re/t/ultimate-notification-script-standalone-qbcore/5022953)
 
