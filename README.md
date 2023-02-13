@@ -6,20 +6,20 @@ Version 1.2.0
 the script development has discontinued ! 
 you can find a lot more optimized functions in our new free script 'ull-notify' which will be available at: [Tebex](https://unluckylust.tebex.io)
 
-# Dependencies:
+## Dependencies:
 QBCore Framework - https://github.com/qbcore-framework/qb-core
 
 Okok notify - https://okok.tebex.io/package/4724993  /  Optional
 
-# all Configuration can be found in Config.lua
+## all Configuration can be found in Config.lua
 
-# installation
+## installation
 1. Only if you intend to use QBcore alerts, copy and paste the code below
 2. ensure ull-announcer
 3. change the Config file however you want
 
-# Add to qb-core > config.lua   |   only if not using okokNotify!
-## Under > QBConfig.Notify.VariantDefinitions 
+## Add to qb-core > config.lua   |   only if not using okokNotify!
+### Under > QBConfig.Notify.VariantDefinitions 
     -- ull-announcer
     red = {
         classes = 'red',
@@ -50,69 +50,69 @@ Okok notify - https://okok.tebex.io/package/4724993  /  Optional
         icon = 'info',
     },
 
-# Add to qb-core > html > css > style.css   |   only if not using okokNotify!
-/* ull-announcer */
-.red {
-    background-color: rgba(23, 23, 23, 90%);
-    border-radius: 13px;
-    box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
-    border-left: 5px solid #c51717
-}
+## Add to qb-core > html > css > style.css   |   only if not using okokNotify!
+    /* ull-announcer */
+    .red {
+        background-color: rgba(23, 23, 23, 90%);
+        border-radius: 13px;
+        box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
+        border-left: 5px solid #c51717
+    }
 
-.yellow {
-    background-color: rgba(23, 23, 23, 90%);
-    border-radius: 13px;
-    box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
-    border-left: 5px solid #e2d304
-}
+    .yellow {
+        background-color: rgba(23, 23, 23, 90%);
+        border-radius: 13px;
+        box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
+        border-left: 5px solid #e2d304
+    }
 
-.orange {
-    background-color: rgba(23, 23, 23, 90%);
-    border-radius: 13px;
-    box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
-    border-left: 5px solid #c57417
-}
+    .orange {
+        background-color: rgba(23, 23, 23, 90%);
+        border-radius: 13px;
+        box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
+        border-left: 5px solid #c57417
+    }
 
-.pink {
-    background-color: rgba(23, 23, 23, 90%);
-    border-radius: 13px;
-    box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
-    border-left: 5px solid #c51791
-}
+    .pink {
+        background-color: rgba(23, 23, 23, 90%);
+        border-radius: 13px;
+        box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
+        border-left: 5px solid #c51791
+    }
 
-.purple {
-    background-color: rgba(23, 23, 23, 90%);
-    border-radius: 13px;
-    box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
-    border-left: 5px solid #6817c5
-}
+    .purple {
+        background-color: rgba(23, 23, 23, 90%);
+        border-radius: 13px;
+        box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
+        border-left: 5px solid #6817c5
+    }
 
-.green {
-    background-color: rgba(23, 23, 23, 90%);
-    border-radius: 13px;
-    box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
-    border-left: 5px solid #17c53d
-}
+    .green {
+        background-color: rgba(23, 23, 23, 90%);
+        border-radius: 13px;
+        box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
+        border-left: 5px solid #17c53d
+    }
 
-.blue {
-    background-color: rgba(23, 23, 23, 90%);
-    border-radius: 13px;
-    box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
-    border-left: 5px solid #1771c5
-}
+    .blue {
+        background-color: rgba(23, 23, 23, 90%);
+        border-radius: 13px;
+        box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
+        border-left: 5px solid #1771c5
+    }
 
 ###### Changelog ######
 
-# Version: 1.2.0
+### Version: 1.2.0
 1. Added more configs
 2. Added more commands
 2. Fixes in events and commands
 3. Added Config to disable commands
 
-# Version: 1.1.1
+### Version: 1.1.1
 1. Added error messages
 2. Added commands to change Config in game (only for 'admin' permissions)
 
-# Version: 1.1.0:
+### Version: 1.1.0:
 1. Changed QBcore messages to notifications 
 2. Added 7 color to choose from (only for QBcore messages) 
