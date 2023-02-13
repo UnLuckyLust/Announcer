@@ -1,15 +1,15 @@
 # FiveM Announcer by UnLuckyLust#9534
+Announcer for FiveM servers, suitable to refine the rules to people or for regular messages you want to send to all players
+Version 1.2.0
 
 # IMPORTENT:
 the script development has discontinued ! 
 you can find a lot more optimized functions in our new free script 'ull-notify' which will be available at: [Tebex](https://unluckylust.tebex.io)
 
-Announcer for FiveM servers, suitable to refine the rules to people or for regular messages you want to send to all players
-Version 1.2.0
-
 # Dependencies:
 QBCore Framework - https://github.com/qbcore-framework/qb-core
-okok notify - https://okok.tebex.io/package/4724993  /  Optional
+
+Okok notify - https://okok.tebex.io/package/4724993  /  Optional
 
 # all Configuration can be found in Config.lua
 
